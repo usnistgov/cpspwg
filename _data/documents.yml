@@ -6,5 +6,13 @@
 #   url: "<url to acquire document>"
 #   md5: md5 checksum
 #   sha256: sha256 checksum
-#   team: NistPagesTemplate Team id -- NistPagesTemplate for all
+#   team: cpspwg subgroup id -- cpspwg for all
 #   featured: true (if item should be featured)
+
+- name: "CPS PWG Framework V0.8"
+  description: "First public review draft of CPS Framework"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/cpspwg/pwgglobal/CPS_PWG_Draft_Framework_for_Cyber-Physical_Systems_Release_0_8_September_2015.pdf
+  md5: 455674cf6d6701c902f75478e1f832e3
+  sha512: d4ebc7f53ce0240d94ed6fb537c45073d6e37234eea6f5d4d7a4eeb9947017258f53c9210c9d85877b31201a564663e38e2ccdeadc9a41aa362146e6c316650c
+  team: cpspwg

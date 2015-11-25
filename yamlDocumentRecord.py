@@ -21,7 +21,7 @@
 #   url: "<url to acquire document>"
 #   md5: md5 checksum
 #   sha256: sha256 checksum
-#   team: NistPagesTemplate Team id -- NistPagesTemplate for all
+#   team: cpspwg Team id -- NistPagesTemplate for all
 #   featured: true (if item should be featured)
 #
 # Here is a sample record (you only need to populate these variables could be
@@ -69,8 +69,8 @@ import subprocess
 
 import initializeCredentials
 
-s3Prefix = "https://s3.amazonaws.com/nist-sgcps/NistPagesTemplate/"
-bucket = "nist-sgcps/NistPagesTemplate/"
+s3Prefix = "https://s3.amazonaws.com/nist-sgcps/cpspwg/"
+bucket = "nist-sgcps/cpspwg/"
 
 validCategories = set(
     ['document', 'presentation', 'TEapproach', 'standard', 'video', ''])
