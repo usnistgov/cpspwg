@@ -1,8 +1,7 @@
 ---
-title: Transactive Energy Library
+title: CPS PWG Library
 layout: page
 ---
-#Library
 
 ---
 <h2>CPS PWG Library</h2>
@@ -19,11 +18,9 @@ layout: page
   {% if document.team == "cpspwg" %}
   <dt>
     <a href="{{document.url}}" >
-    {{document.name}} (Web Page)</a>
+    {{document.name}}</a>
 
   </dt>
-
-
   <dd>{{document.description}}</dd>
 
 {% endif %}

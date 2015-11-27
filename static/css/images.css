@@ -1,5 +1,6 @@
 ---
 ---
 .home-title {
-  background: url('{{ site.baseurl }}/assets/CPSPWG.jpg');
+	background: #B8C8D7;
+/*  background: url('{{ site.baseurl }}/assets/CPSPWG.jpg');*/
 }
