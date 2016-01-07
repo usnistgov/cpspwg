@@ -23,4 +23,10 @@
   md5: bca28269a4a30ad5c2b89bc99e19cfb5
   sha512: 43680c7c7605bbfdb40ac30dae3d4b949010e3e89208b6384d8edbaa51185f0ac4eb275b014deea01581cf75bc1b84a91520a7b18799ffe2f7b61a3f45a2db82
   team: cpspwg
-
+- name: "CPS PWG Framework Comments Consolidated"
+  description: "The set of comments received being processed by the public working group"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/cpspwg/files/pwgglobal/CPSFrameworkIssuesConsolidated_20151119.xlsm
+  md5: 339d3f18f22881e97d69d821ef3140ec
+  sha512: 1ce25b5c0bd185226f1a7e58a8a0f2c8dc6ce3c466f23e5e1074e74010b5404871533e45f4ef4dbfad42e30cb1c5d7ae2b49f698f95825d6e46c2c5784ca00fc
+  team: cpspwg
