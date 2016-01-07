@@ -4,6 +4,7 @@ description: "The Cyber-Physical Systems Public Working Group (CPS PWG) will bri
 
 baseurl: "/cpspwg"
 rooturl: ""
+options: "-w"
 
 # Build settings
 markdown: kramdown
