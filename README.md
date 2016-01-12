@@ -6,5 +6,5 @@ This is a template project for Jekyll collaboration site on pages.nist.gov. Foll
 
 http://odiwiki.nist.gov/ODI/GitHubFAQ
 
-more documentation coming...
+more documentation coming....
 
