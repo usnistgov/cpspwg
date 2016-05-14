@@ -1,6 +1,14 @@
 @import "../font-awesome/css/font-awesome.min.css";
 @import "images.css";
 
+/*
+Color scheme
+Dark Blue #296DA0
+Grey separator #F8F8F8
+Template Green: #4CBA6F >> #296DA0
+Darker: #1D9967 >> 296DA5
+*/
+
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */html{
 	font-family:sans-serif;
 	-ms-text-size-adjust:100%;
