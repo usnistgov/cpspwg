@@ -37,3 +37,10 @@
   md5: 7ab13c273d350733648396bc3340f633
   sha512: 589b4d58b07984bcf9cca5e732047cb75de3c35d22c7fbc0fb2a582e6eb5fdd1c0e0d0a125f0f560a0b6c88b1438625a76402139b408e5265acf8d1346122010
   team: cpspwg
+- name: "Framework for Cyber-Physical Systems Release 1.0"
+  description: "Official release of version 1.0 of the CPS Framework developed by the CPS Public Working Group."
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/cpspwg/files/pwgglobal/CPS_PWG_Draft_Framework_for_Cyber_Physical_Systems_Release_1_0Final.pdf
+  md5: 5a4ce7604f732b32a6f5b536abc85d9d
+  sha512: d91264d58d5591da8a29b31889894eebbb9ca75d935388ecb0ed42b977bb19c435850026fc4fd65531cc9b28e29198749b969d143c9e018b073892698172c451
+  team: cpspwg
