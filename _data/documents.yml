@@ -41,6 +41,6 @@
   description: "Official release of version 1.0 of the CPS Framework developed by the CPS Public Working Group."
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/cpspwg/files/pwgglobal/CPS_PWG_Draft_Framework_for_Cyber_Physical_Systems_Release_1_0Final.pdf
-  md5: 9c9c7aff6d80fe1f4f8e3eb318795a35
-  sha512: fa1c612900db886b5626392268f1c63c5338fbcd92c63bde4027b6c97ce1cd560dd59da6d94fa531e5ccc8404bbe93d172a946c9b023a793353cedaadfe42210
+  md5: f20553cc3d9ff9e2b17fcae7dc51dc60
+  sha512: 3c8f238be4d5959d9f14dac817e56828d1ac8a99ebb4d5961850516b8264679c5a2c0c962fdf74b325a8f9060f712f8bbb4c1372edd95de4882733272525eb0f
   team: cpspwg
