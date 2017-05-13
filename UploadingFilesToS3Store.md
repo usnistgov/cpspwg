@@ -17,11 +17,11 @@ b.	Add these to the path using Control Panel: System: Advanced System Settings: 
     C:\Python27\Scripts\pip install boto
 
 1. Add a template for credentials in %USERPROFILE%\.aws
-a.	Add a “.aws” sub-directory under C:\Users\USERNAME using command prompt “mkdir .aws” from >C:\Users\USERNAME 
-b.	Use Notepad++ to create a file (with contents below, 5 lines, which serves as the template for credentials) and save as “credentials.”
+a.	Add a ".aws" sub-directory under C:\Users\USERNAME using command prompt "mkdir .aws" from >C:\Users\USERNAME 
+b.	Use Notepad++ to create a file (with contents below, 5 lines, which serves as the template for credentials) and save as "credentials".
 
 
-Contents of %USERPROFILE%\.aws\credentials. file:
+Contents of "%USERPROFILE%\.aws\credentials." file:
 
 	[default]
 	output = json
